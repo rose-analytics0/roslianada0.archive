@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rosliana Dwi Astuti | Data Processing &amp; Data Entry Specialist</title>
+<meta name="description" content="Data Processing and Data Entry Specialist with accounting, audit and data analytics experience. Accurate, structured and reliable data.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head>
+<body data-page="home" data-cta="Explore My Experience →" data-href="experience.html">
+<header class="hero"><div class="wrap"><div>
+<div class="eyebrow">Portfolio</div><h1>Rosliana Dwi Astuti</h1>
+<p class="role">Data Processing &amp; Data Entry Specialist</p>
+<p class="fields">Accounting · Data Extraction · Data Validation · Reconciliation</p>
+<p class="tag">Turning raw data and financial records into accurate, structured, and reliable information.</p>
+<a class="btn" href="experience.html">Explore My Experience →</a> <a class="btn ghost" href="contact.html">Contact</a></div>
+<div class="cover"><img class="bg" src="Background.png" alt="Rose Analytics cover artwork" onerror="this.style.display='none'"><img class="logo" src="Logo.png" alt="RDA logo" onerror="this.style.display='none'"></div></div></header>
+<main>
+<section class="panel s-mint" id="journey"><div class="wrap"><div class="kicker">Editorial professional journey</div><h1 style="margin-bottom:56px">My Journey</h1>
+<div class="head"><span class="num">01</span><div><div class="kicker">Accounting foundation</div><h2>Accounting Graduate · STIE Ganesha (2021 to 2025)</h2></div></div>
+<p class="intro">Machine learning based fraud detection research on 6.36 million synthetic financial transaction records, covering data preparation, feature engineering and XGBoost modeling.</p>
+<div class="stats"><div class="stat"><b>121.72 sec</b><small>Processing time for 1 million test records</small></div><div class="stat"><b>99.97%</b><small>AUC score</small></div><div class="stat"><b>99.57%</b><small>Recall</small></div><div class="stat"><b>93.86%</b><small>Precision</small></div></div></div></section>
+
+<section class="panel s-sage"><div class="wrap"><div class="head"><span class="num">02</span><div><div class="kicker">Operations</div><h2>Production Operations &amp; Quality Control</h2></div></div>
+<div class="big"><b>~4,000</b><span>units per cycle</span></div>
+<p class="kicker">Freelance · International client orders · Jan 2017 to May 2025</p><div class="line"></div>
+<p class="intro">Production workflow, quality inspection, defect verification, order documentation and operational coordination.</p></div></section>
+
+<section class="panel s-mint"><div class="wrap"><div class="head"><span class="num">03</span><div><div class="kicker">Inventory</div><h2>Retail Operations &amp; Inventory Control</h2></div></div>
+<p class="kicker">Full-time · Aug 2021 to Apr 2022</p><br>
+<div class="three"><div class="card"><h3>Stock counting</h3></div><div class="card"><h3>Reconciliation</h3></div><div class="card"><h3>Discrepancy investigation</h3></div></div></div></section>
+
+<section class="panel s-sage"><div class="wrap"><div class="head"><span class="num">04</span><div><div class="kicker">Data analytics &amp; business analysis</div><h2>Bitlabs Academy · Project Based Learning · Team Leader</h2></div></div>
+<div class="two">
+<div class="card"><h3>Digital Payment Fraud Analysis &amp; Risk Insights</h3><p class="kicker" style="margin:10px 0">50,000 payment transaction records</p><ul class="list"><li>Feature Engineering &amp; Risk Indicators</li><li>SQL Risk Monitoring &amp; Reporting</li><li>Behavioral &amp; Cohort Analysis</li><li>Campaign &amp; Transaction Analysis</li></ul></div>
+<div class="card"><h3>Hotel Reservation &amp; Business Process Analysis</h3><p class="kicker" style="margin:10px 0">119,390 hotel booking records</p><ul class="list"><li>Business Process Analysis</li><li>Cancellation &amp; Booking Analysis</li><li>Special Request Analysis</li><li>SQL Revenue Analysis</li><li>End to end reservation process in a BPMN style diagram</li></ul></div></div>
+<h3 style="margin:48px 0 18px">10 Hands-on Projects · Data Analytics for Business</h3>
+<div class="two"><div class="card"><div class="group-t">Business topics</div><ul class="list"><li>User Journey Mapping &amp; BPMN</li><li>Data Analytics Lifecycle</li><li>Business Strategy Development</li><li>Innovative Problem Solving</li><li>Strategic Analytics, Forecasting &amp; Risk Insights</li></ul></div>
+<div class="card"><div class="group-t">Technical skills</div><ul class="list"><li>Advanced Spreadsheet Techniques</li><li>SQL Fundamentals &amp; Advanced SQL</li><li>Python &amp; Pandas, Exploratory Analysis</li><li>Tableau Dashboards &amp; Visualization</li><li>Tableau Table Calculations &amp; LOD</li></ul></div></div></div></section>
+
+<section class="panel s-mint"><div class="wrap"><div class="head"><span class="num">05</span><div><div class="kicker">External audit</div><h2>Audit Experience · Full-time (Jun 2025 to Dec 2025)</h2></div></div>
+<div class="big"><b>11</b><span>companies</span><b>6</b><span>industries</span></div>
+<p class="intro">Construction, Media, Trading, Cooperatives, Services and Education.</p>
+<div class="stats"><div class="stat"><b style="font-size:22px">Verification</b><small>Checking financial records and supporting documents.</small></div><div class="stat"><b style="font-size:22px">Vouching &amp; Tracing</b><small>Examining transaction evidence against accounting records.</small></div><div class="stat"><b style="font-size:22px">Reconciliation</b><small>Comparing general ledger, trial balance, bank statements and tax records.</small></div><div class="stat"><b style="font-size:22px">Observation</b><small>Reviewing supporting information and following up on discrepancies.</small></div></div></div></section>
+
+<section class="panel s-sage"><div class="wrap"><div class="head"><span class="num">06</span><div><div class="kicker">Current focus</div><h2>Skills I am building right now</h2></div></div>
+<div class="two"><div class="card"><h3>Accounting Cycle &amp; Records</h3><br><ul class="list"><li>Cash Receipt and Cash Payment Journal</li><li>Petty Cash</li><li>Sales and Purchase Journal</li><li>General Journal and General Ledger</li><li>Receivable and Payable Subsidiary Ledger</li><li>Inventory Card</li><li>Trial Balance, Adjusting Entries, Worksheet</li><li>Income Statement, Retained Earnings, Balance Sheet, Cash Flows</li></ul></div>
+<div class="card"><h3>Spreadsheet Data Processing</h3><br><ul class="list"><li>Interactive views: ARRAYFORMULA, FILTER, CHOOSECOLS</li><li>Validation: BYCOL, LAMBDA, IF, IFERROR, EXACT, COUNTIF, ISBLANK, ISNUMBER, IFNA</li><li>Lookup: XLOOKUP, INDEX, MATCH</li><li>Text extraction: REGEXMATCH, REGEXEXTRACT, REGEXREPLACE, TEXTJOIN</li><li>Duplicates: UNIQUE, ROWS</li><li>Summaries: SUM, SUMIF, SUMPRODUCT</li><li>Reporting: dynamic filtering, KPI calculations, interactive stock views, data quality checks</li></ul></div></div></div></section>
+
+<section class="panel s-mint" id="tools"><div class="wrap"><h1 style="margin-bottom:12px">Tools &amp; Capabilities</h1><p class="page-sub" style="margin-bottom:36px">What I work with, and what I can do with it.</p>
+<div class="tools"><div class="card"><h3>1. Spreadsheet &amp; Data Processing</h3><h4>Tools</h4><div><span class="pill">Microsoft Excel</span><span class="pill">Google Sheets</span></div><h4>Capabilities</h4><ul><li>Data Entry &amp; Organization</li><li>Cleaning &amp; Standardization</li><li>Extraction &amp; Validation</li><li>Lookup &amp; Matching</li><li>Reconciliation</li><li>Dynamic Filtering &amp; Interactive Views</li></ul></div><div class="card"><h3>2. Productivity &amp; Collaboration</h3><h4>Tools</h4><div><span class="pill">Word</span><span class="pill">Outlook</span><span class="pill">PowerPoint</span><span class="pill">Google Drive</span><span class="pill">Teams</span><span class="pill">Notion</span><span class="pill">Trello</span><span class="pill">Slack</span><span class="pill">Calendly</span><span class="pill">GitHub</span></div><h4>Capabilities</h4><ul><li>Document Preparation</li><li>File &amp; Data Organization</li><li>Team Collaboration</li><li>Task &amp; Workflow Coordination</li></ul></div><div class="card"><h3>3. Accounting &amp; Audit</h3><h4>Tools</h4><div><span class="pill">ATLAS</span><span class="pill">Accurate</span><span class="pill">MYOB</span><span class="pill">XERO</span></div><h4>Capabilities</h4><ul><li>Accounting Cycle Knowledge</li><li>Journal Entries &amp; Ledgers</li><li>Vouching &amp; Tracing</li><li>Bank &amp; Tax Reconciliation</li><li>Audit Working Papers</li></ul></div><div class="card"><h3>4. Data Analytics</h3><h4>Tools</h4><div><span class="pill">Python</span><span class="pill">Pandas</span><span class="pill">NumPy</span><span class="pill">Matplotlib</span><span class="pill">Seaborn</span><span class="pill">Google Colab</span></div><h4>Capabilities</h4><ul><li>Data Manipulation &amp; Cleaning</li><li>Exploratory Data Analysis</li><li>Feature Engineering</li><li>Statistical Analysis</li><li>Data Visualization</li></ul></div><div class="card"><h3>5. SQL &amp; Database Analysis</h3><h4>Tools</h4><div><span class="pill">SQL</span><span class="pill">SQLite</span><span class="pill">DBeaver</span></div><h4>Capabilities</h4><ul><li>Data Extraction &amp; Querying</li><li>Joins and CTEs</li><li>Window Functions</li><li>Aggregate Functions</li><li>Analysis &amp; Reporting</li></ul></div><div class="card"><h3>6. Visualization &amp; Business Analysis</h3><h4>Tools</h4><div><span class="pill">Tableau</span><span class="pill">draw.io</span></div><h4>Capabilities</h4><ul><li>Dashboard Development</li><li>Calculated Fields and LOD</li><li>Table Calculations</li><li>Forecasting &amp; Trends</li><li>Cluster Analysis</li><li>BPMN Process Mapping</li></ul></div></div></div></section>
+</main>
+<script src="main.js"></script></body></html>

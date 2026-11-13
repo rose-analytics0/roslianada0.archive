@@ -78,3 +78,29 @@ footer p{margin-top:40px;font-size:var(--fs-label);opacity:.8}
 section.panel{padding:64px 0}.two,.three,.tools{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}
 .topbar .wrap{gap:18px}}
 @media(max-width:420px){.stats{grid-template-columns:1fr}.btn{width:100%;text-align:center}}
+
+.prose h1,.prose h2{margin-bottom:12px}
+.prose p{margin-bottom:18px}
+.role-line{font-family:"Playfair Display",Georgia,serif;font-size:var(--fs-sub);color:var(--ink);font-weight:600;margin-bottom:28px!important}
+.timeline{display:flex;flex-direction:column}
+.tl-item{display:grid;grid-template-columns:200px 1fr;gap:0}
+.tl-side{padding-right:32px;text-align:right}
+.tl-side .num{display:inline-block;margin-bottom:10px}
+.tl-per{font-size:var(--fs-label);color:var(--muted)}
+.tl-main{position:relative;border-left:2px solid #c9d6c9;padding:0 0 72px 40px}
+.tl-item:last-child .tl-main{padding-bottom:0}
+.tl-main:before{content:"";position:absolute;left:-8px;top:8px;width:14px;height:14px;border-radius:50%;background:var(--red);border:3px solid var(--off)}
+.tl-main h3{margin-bottom:6px}
+.tl-org{color:var(--muted);font-size:var(--fs-label);margin-bottom:20px!important}
+.tl-main p{margin-bottom:16px}
+.tl-tags{font-size:var(--fs-label);color:var(--green);font-weight:600;letter-spacing:.04em;margin-top:22px}
+.more{display:inline-block;color:var(--red);font-weight:600;font-size:var(--fs-nav);border-bottom:1.5px solid transparent}
+.more:hover{border-color:var(--red)}
+.flow{display:flex;flex-wrap:wrap;gap:6px 0;margin:28px 0 32px!important;font-family:"Playfair Display",Georgia,serif;font-size:var(--fs-section);line-height:1.35;color:var(--green)}
+.flow span:not(:last-child):after{content:"→";color:var(--red);margin:0 14px}
+@media(max-width:860px){.tl-item{grid-template-columns:1fr}
+.tl-side{text-align:left;padding:0 0 12px 42px;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.tl-side .num{font-size:32px;margin:0}
+.tl-main{margin-left:5px;padding-left:36px}
+.tl-main:before{left:-8px}
+.flow span:not(:last-child):after{margin:0 10px}}

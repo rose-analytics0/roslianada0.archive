@@ -246,3 +246,26 @@ section.panel{padding:64px 0}.two,.three,.tools{grid-template-columns:1fr}.stats
 @media(max-width:1180px){.w5{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:860px){.sgrid,.caps,.primary,.sec2{grid-template-columns:1fr}.sgrid{gap:44px}.w5,.w6{grid-template-columns:1fr}
 .fnr{grid-template-columns:1fr}.ptool{padding:28px 24px}.ctas .btn{width:100%;text-align:center}}
+
+/* Insights, Recognition, Contact */
+.series-t{font-size:var(--fs-title);margin-bottom:8px}
+.series-s{font-family:"Playfair Display",Georgia,serif;font-size:var(--fs-sub);color:var(--red);margin-bottom:32px}
+.topics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:40px 64px;margin-top:36px}
+.topic{border-top:2px solid var(--green);padding-top:20px}
+.topic h3{margin-bottom:10px}
+.rdesc{margin-bottom:28px;max-width:920px}
+.rsub{margin:36px 0 4px;font-size:var(--fs-sub)}
+.rlist{list-style:none;border-bottom:1px solid #cfd8cf}
+.rrow{display:flex;justify-content:space-between;align-items:baseline;gap:12px 32px;padding:18px 0;border-top:1px solid #cfd8cf}
+.rt{font-size:18px;font-weight:600;line-height:1.45}
+.rl{flex:0 0 auto;font-size:var(--fs-label);color:var(--red);font-weight:600;border-bottom:1.5px solid transparent}
+.rl:hover{border-color:var(--red)}
+.clist2{list-style:none;margin-top:40px;border-bottom:1px solid #b9c9b9;max-width:760px}
+.crow{display:flex;align-items:center;gap:20px;padding:28px 4px;border-top:1px solid #b9c9b9;transition:.2s}
+.crow:hover{background:rgba(255,255,255,.55);padding-left:14px}
+.ci svg{width:26px;height:26px;stroke:var(--green);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;display:block}
+.cn2{display:flex;flex-direction:column;gap:2px;flex:1;min-width:0}
+.cl{font-family:"Playfair Display",Georgia,serif;font-size:var(--fs-section);color:var(--green);line-height:1.2;font-weight:600}
+.cs{font-size:var(--fs-label);color:var(--muted);overflow-wrap:anywhere}
+.ca{font-size:var(--fs-sub);color:var(--red)}
+@media(max-width:860px){.topics{grid-template-columns:1fr;gap:32px}.rrow{flex-direction:column;gap:6px}.crow{padding:22px 2px}}

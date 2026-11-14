@@ -6,7 +6,8 @@ var links=pages.map(function(p){return '<a href="'+p[1]+'"'+(p[2]===cur?' class=
 var head='<div class="topbar"><div class="wrap"><span>'+ic.cal+'<span id="d"></span></span><span>'+ic.clk+'<span id="t"></span>&nbsp;UTC+7</span><span>'+ic.pin+'Banten, Indonesia</span></div></div>'+
 '<nav class="main"><div class="wrap"><a class="brand" href="index.html" aria-label="RDA, back to home"><img src="Logo.png" alt="" onerror="this.style.display=\'none\'"><span>RDA</span></a><div class="links" id="links">'+links+'</div><button class="burger" id="bg" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button></div></nav>';
 var cta=b.getAttribute("data-cta"),href=b.getAttribute("data-href");
-var foot='<footer><div class="wrap"><a class="btn" href="'+href+'">'+cta+'</a><p>\u00a9 2026 Rosliana Dwi Astuti. All rights reserved.</p></div></footer>';
+var foot='<section class="closing"><div class="wrap"><a class="btn" href="'+href+'">'+cta+'</a></div></section><footer class="fbar"><div class="wrap"><span>\u00a9 2026 Rosliana Dwi Astuti. All rights reserved.</span><a href="#top">Back to top \u2191</a></div></footer>';
+if(!document.body.id)document.body.id="top";
 document.body.insertAdjacentHTML("afterbegin",head);
 document.body.insertAdjacentHTML("beforeend",foot);
 var bg=document.getElementById("bg"),ln=document.getElementById("links");

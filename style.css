@@ -410,3 +410,10 @@ html.am-lock,html.am-lock body{overflow:hidden}
 @media(max-width:860px){.acards{grid-template-columns:1fr}.acard{padding:24px}.am-head{padding:14px 22px}.am-body{padding:22px 22px 36px}}
 @media(max-width:600px){.amodal{padding:0}.amodal-panel{width:100%;max-height:100vh;height:100vh;border-radius:0}.am-text p{text-align:left}}
 @media(prefers-reduced-motion:reduce){.acard,.amodal-bg,.amodal-panel{transition:none}}
+
+/* Academic note below the cards */
+.academic-note{margin-top:56px;padding-top:40px;border-top:1px solid #c9d6c9}
+.academic-note h3{margin-bottom:18px}
+.academic-note p{margin-bottom:16px;text-align:justify}
+.academic-note p:last-child{margin-bottom:0}
+@media(max-width:600px){.academic-note{margin-top:40px;padding-top:32px}.academic-note p{text-align:left}}
